@@ -1,0 +1,1 @@
+INSERT OR IGNORE INTO sects (sect_id, name) VALUES (0, 'Rogue')
